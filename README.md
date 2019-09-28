@@ -11,6 +11,7 @@
 *Zurzeit noch leer*
 
 ## Wir nutzen: Tello Drone
+## [Tello Drone kaufen](https://store.dji.com/de/product/tello-edu)
 ![](https://product3.djicdn.com/uploads/sku/covers/30922/small_9e4b5fd8-325d-47b2-80ee-f47542134048%402x.png)
 
 # Beschreibung
