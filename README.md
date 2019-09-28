@@ -8,7 +8,11 @@
 
 ## Interne Code-Links
 
-*Zurzeit noch leer*
+- [Communication](https://github.com/yves147/drone/tree/master/src/comm)
+- [Interface](https://github.com/yves147/drone/tree/master/src/inte)
+- [Network Integration](https://github.com/yves147/drone/tree/master/src/netw)
+- [Body Pose](https://github.com/yves147/drone/tree/master/src/pose)
+- [OpenStreetMap Integration](https://github.com/yves147/drone/tree/master/src/sema)
 
 ## Wir nutzen: Tello Drone
 ## [Tello Drone kaufen](https://store.dji.com/de/product/tello-edu)
