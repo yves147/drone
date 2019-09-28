@@ -1,6 +1,6 @@
 import os
 import sys
-from easytello import Tello
+from easytello import tello
 
 my_drone = tello.Tello()
 my_drone.streamon()
@@ -9,7 +9,7 @@ my_drone.takeoff()
 
 
 def searchforinput():
-    key = raw_input()
+    key = input()
     if key == "w":
         my_drone.forward(20)
     if key == "s":
