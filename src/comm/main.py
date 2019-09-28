@@ -30,7 +30,7 @@ def searchforinput():
         exit()
     searchforinput()
 
-searchinput()
+searchforinput()
 
 """address = "192.168.10.1"
 port = 8889"""
