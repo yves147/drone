@@ -1,0 +1,23 @@
+{
+  "name": "drone",
+  "version": "1.0.0",
+  "description": "Tello DJI EDU Drone Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yves147/drone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yves147/drone/issues"
+  },
+  "homepage": "https://github.com/yves147/drone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
