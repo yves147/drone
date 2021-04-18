@@ -1,3 +1,5 @@
+# Irgendwann wird hier die finale Version auch gepusht..
+
 # Drone Control
 
 ## Derzeitige Ziele
